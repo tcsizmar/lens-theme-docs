@@ -4,7 +4,7 @@ title: Lens theme documentation
 
 Lens is a clean, conversion-focused theme for direct-to-consumer brands built around a hero product, with the catalog tools to scale to hundreds of products. This guide covers setup, every section and the main theme settings.
 
-> Support: thiagocsizmar@yahoo.com.br
+> Support: onair.tecnologies+lens-shopify@gmail.com
 
 ## 1. Get started
 
@@ -83,4 +83,4 @@ Blog and article pages, contact form, 404, password page, gift card page.
 
 ## 6. Support
 
-Contact: thiagocsizmar@yahoo.com.br. Include your store URL and a description or screenshot of the issue.
+Contact: onair.tecnologies+lens-shopify@gmail.com. Include your store URL and a description or screenshot of the issue. See also the [support page](support).
